@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{74:function(e){e.exports=JSON.parse('{"allTagsPath":"/h/newsletter/tags","slug":"update","name":"update","count":1,"permalink":"/h/newsletter/tags/update"}')}}]);
