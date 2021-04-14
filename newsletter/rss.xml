@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>UWindsor Computer Science Wiki Blog</title>
-        <link>https://jere-mie.github.io/newsletter</link>
+        <link>https://css.uwindsor.ca/wiki/newsletter</link>
         <description>UWindsor Computer Science Wiki Blog</description>
         <lastBuildDate>Wed, 17 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://jere-mie.github.io/newsletter/welcome</link>
+            <link>https://css.uwindsor.ca/wiki/Wiki/newsletter/welcome</link>
             <guid>welcome</guid>
             <pubDate>Wed, 17 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the CSS Newsletter!]]></description>
