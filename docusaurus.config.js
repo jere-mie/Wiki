@@ -1,7 +1,7 @@
 module.exports = {
     title: "UWindsor Computer Science Wiki",
     tagline: "Courtesy of the University of Windsor Computer Science Society",
-    url: "https://uwindsorcss.github.io",
+    url: "https://wiki.m.bornais.ca",
     baseUrl: "/wiki/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
